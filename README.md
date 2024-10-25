@@ -16,5 +16,5 @@ A simple sentiment analysis tool built using **Streamlit** and **TextBlob**.
 ## How to Run the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Wish-nu/sentiment_analysis_tool.git
+   git clone https://github.com/Wish-nu/sentiment_analysis_tool-.git
    

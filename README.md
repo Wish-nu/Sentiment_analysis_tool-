@@ -18,3 +18,16 @@ A simple sentiment analysis tool built using **Streamlit** and **TextBlob**.
    ```bash
    git clone https://github.com/Wish-nu/sentiment_analysis_tool-.git
    
+## Navigate to the project directory:
+cd sentiment_analysis_tool
+
+## Create a virtual environment (if you haven’t already)
+python3 -m venv .venv
+source .venv/bin/activate
+
+## Install required libraries:
+pip install streamlit pandas textblob
+
+## Run the Streamlit application
+streamlit run sentiment_analysis.py
+

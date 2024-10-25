@@ -31,3 +31,6 @@ pip install streamlit pandas textblob
 ## Run the Streamlit application
 streamlit run sentiment_analysis.py
 
+## A sample JSON file (sentiment_data.json) is included in the repository with various text samples for sentiment analysis.
+
+
